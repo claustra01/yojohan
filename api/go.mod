@@ -10,7 +10,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/websocket v1.5.3
 	github.com/jmoiron/sqlx v1.4.0
-	github.com/lib/pq v1.11.1
+	github.com/lib/pq v1.11.2
 	github.com/minio/minio-go/v7 v7.0.97
 	github.com/pkg/errors v0.9.1
 	golang.org/x/crypto v0.47.0
