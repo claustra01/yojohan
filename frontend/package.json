@@ -16,7 +16,7 @@
   "dependencies": {
     "@mantine/core": "^7.14.0",
     "@mantine/hooks": "^7.14.0",
-    "@tabler/icons-react": "^3.35.0",
+    "@tabler/icons-react": "^3.37.1",
     "axios": "^1.13.2",
     "dompurify": "^3.3.0",
     "html-react-parser": "^5.2.6",
